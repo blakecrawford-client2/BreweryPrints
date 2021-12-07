@@ -1,0 +1,2 @@
+# Packleader Elf-50 Idle Pulley
+At one point we had an Elf-50 labeler, and the idle pulley on the wrap station involved an unsealed bearing that seized up and melted a bit of the part.  10 week lead time from Pack Leader wasn't going to work, so we designed and printed this one.  Sized for the same shaft, but with a slightly larger bearing journal to support the installation of a sealed bearing from <McMaster.
